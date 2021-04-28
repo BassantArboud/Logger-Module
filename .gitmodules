@@ -1,0 +1,3 @@
+[submodule "sub-logger-module"]
+	path = sub-logger-module
+	url = https://github.com/BassantArboud/sub-logger-module.git
